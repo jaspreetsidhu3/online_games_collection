@@ -25,7 +25,7 @@ Android Application which provides collection of online games like Google doodle
 * v1.0
 
 ## Want to contribution ?
-* We welcome to everyone to contribute on this project
+* We welcome everyone to contribute on this project
 ### To contribute
 * Fork this project
 * Clone onto your local computer
