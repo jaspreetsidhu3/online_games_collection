@@ -1,4 +1,4 @@
-# Webview Games
+# Online Game Collection
 
 Android Application which provides collection of online games like Google doodle, tic tok, snake, pac man and many more.
 
